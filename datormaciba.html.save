@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<html>
+<head>
+<style>
+body {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+</style>
+</head>
+<body>
+<body background="pic_bulboff.gif">
+<ul>
+  <li><a href="https://213.175.92.37/~x161REB064/">Home</a></li>
+  <li><a class="active" href="https://213.175.92.37/~x161REB064/datormaciba.html">Datormācība</a></li>
+  <li><a href="https://213.175.92.37/~x161REB064/etp.html">ETP</a></li>
+  <li><a href="https://213.175.92.37/~x161REB064/emd.html">Kursa biedri</a></li>
+  <li><a href="https://213.175.92.37/~x161REB064/studiju.html">Studiju darbs</a></li>
+</ul>
+
+<div style="margin-left:25%;padding:1px 16px;height:1000px;">
+  <h2>Datormācības praktiskie darbi</h2>
+  <h3>Seit atradisies visi datormacibas darbi.</h3>
+  <p> </p>
+<ol>
+<li> <a href="https://213.175.92.37/~x161REB064/LD21H/211.html">211 programma</a> </li>
+<li> <a href="https://213.175.92.37/~x161REB064/LD21H/212.html">212 programma</a> </li>
+<li> <a href="https://213.175.92.37/~x161REB064/piemeeri_js.html">java script programma 1</a> </li>
+<li> <a href="https://213.175.92.37/~x161REB064/piemeeri2_js.html">java script programma 2</a> </li>
+<li> <a href="https://213.175.92.37/~x161REB064/myScript.js">javasa</a> </li>
+<li> <a href="https:sharelatex.com">latex documents</a> </li>
+<li> <a href="https://213.175.92.37/~x161REB064/221.html">211.svg</a></li>
+<li> <a href="https://213.175.92.37/~x161REB064/222.html">222.svg</a></li>
+<li> <a href="https://213.175.92.37/~x161REB064/223.html">223.svg</a></li>
+<li> <a href="https://213.175.92.37/~x161REB064/224.html">224.svg</a></li>
+<li> <a href="https://213.175.92.37/~x161REB064/225.html">225.svg</a></li>
+<li> <a href="https://213.175.92.37/~x161REB064/226.html">226.svg</a></li>
+<li> <a href="https://213.175.92.37/~x161REB064/227.html">227.svg</a></li>
+</ol>
+</div>
+
+</body>
+</html>
